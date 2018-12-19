@@ -1,5 +1,16 @@
-Original Repositories for:
-1. NewLiquidCrystal Library for I2C LCD (F. Malpartida) - https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
-2. Library for Mifare RC522 Devices (miguelbalboa) - https://github.com/miguelbalboa/rfid
+Original Libraries:
+- Beeper_1.0
+- Button_1.0
+- SolenoidLock_1.0
+- UltrasonicSensor_1.0
+- CoinAcceptor_1.0
 
-both libraries are used in accordance to their respective licenses
+3rd Party Libraries:
+- MFRC522
+- Newliquidcrystal_1.3.5
+
+Original Repositories for:
+- Newliquidcrystal_1.3.5 - NewLiquidCrystal Library for I2C LCD (F. Malpartida) - https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
+- MFRC522 - Library for Mifare RC522 Devices (miguelbalboa) - https://github.com/miguelbalboa/rfid
+
+(both libraries are used in accordance to their respective licenses)
