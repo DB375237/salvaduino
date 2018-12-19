@@ -1,0 +1,21 @@
+###########################################
+# Syntax Coloring Map For Button
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+CoinAcceptor		KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+enableCoins		KEYWORD2
+coinsAvalilable		KEYWORD2
+readCoin		KEYWORD2
+initSerialInterface	KEYWORD2
+isEnabled			KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
