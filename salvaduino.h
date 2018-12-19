@@ -1,6 +1,6 @@
 /*
- * Dario B. mat. 375237
- * released into public domain (Creative Commons 0)
+ * D. Bellisario
+ * released into public domain (CC0 1.0 Universal)
  *
  * salvaduino.h
  */
