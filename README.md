@@ -27,21 +27,25 @@ Arduino 1.8.7
 * #1 pushbutton;
 * #1 passive piezo buzzer;
 * #2 microswitches;
-* #1 5mm Red LED;
-* #1 180Ω 1/4W;
-* #1 1K0Ω 1/4W;
-* #1 1K5Ω 1/4W;
-* #1 3K3Ω 1/4W;
+* #1 5mm red LED;
+* #1 180Ω 1/4W resistor;
+* #1 1K0Ω 1/4W resistor;
+* #1 1K5Ω 1/4W resistor;
+* #1 3K3Ω 1/4W resistor;
 * #1 BDX53 NPN Darlington Transistor;
 * #1 1N4007 diode;
 * #1 5V & 12V DC power supply;
 
 ### Libraries:
 
-#### Library used:
-* asdasd
-* asdasdasd
-* asdasdas
+#### Purposely Developed Libraries (integral part of the project):
+* Beeper_1.0
+* Button_1.0
+* SolenoidLock_1.0
+* UltrasonicSensor_1.0
+* CoinAcceptor_1.0
 
-## 2 Using sdsdf
-sdfsdfsdf
+
+#### 3rd Party Libraries (used in accordance to their respective license terms):
+* MFRC522 - Library for Mifare RC522 Devices (miguelbalboa) - https://github.com/miguelbalboa/rfid
+* Newliquidcrystal_1.3.5 - NewLiquidCrystal Library for I2C LCD (F. Malpartida) - https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
