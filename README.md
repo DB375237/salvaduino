@@ -24,6 +24,7 @@ Arduino 1.8.7
 * Mini Elettroserratura 12 Vdc (https://www.futurashop.it/ELLOCK-MINI-ELETTROSERRATURA-12V)
 * Misuratore distanza ultrasuoni 2-450 cm (https://www.futurashop.it/misuratore-distanza-ultrasuoni-2-450-cm-2846-misdist04)
 * Convertitore di livelli logici bidirezionale (https://www.futurashop.it/convertitore-di-livelli-logici-bidirezionale-7300-llconbi)
+* Adattatore Strip/Morsetto per Arduino (https://www.futurashop.it/morshield2)
 * #1 pushbutton;
 * #1 passive piezo buzzer;
 * #2 microswitches;
