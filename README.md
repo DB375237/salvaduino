@@ -1,5 +1,6 @@
 # Arduino controlled money box (aka Salvaduino)
 The aim of the project is to build a money box controlled by an Arduino board. 
+
 The money box:
 * accepts 0.50, 1 and 2 EUR coins;
 * displays amount and number of coins on a 16 x 2 LCD;
