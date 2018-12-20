@@ -1,11 +1,11 @@
-Original Libraries:
+Original Libraries (integral part of the assignment):
 - Beeper_1.0
 - Button_1.0
 - SolenoidLock_1.0
 - UltrasonicSensor_1.0
 - CoinAcceptor_1.0
 
-3rd Party Libraries:
+3rd Party Libraries (provided only for convenience):
 - MFRC522
 - Newliquidcrystal_1.3.5
 
