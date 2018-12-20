@@ -4,10 +4,12 @@ The aim of the project is to build a money box controlled by an Arduino board.
 The money box:
 * accepts 0.50, 1 and 2 EUR coins;
 * displays amount and number of coins on a 16 x 2 LCD;
+* amount and number of coins are stored in EEPROM to survive power loss;
 * stops accepting coins when its coin container is full;
 * recognizes the owner via an RFID key fob (a Master tag is provided to change user's tag - e.g. in case of loss);
+* secures the coin container via a solenoid lock;
 
-The money box ('salvadanaio' in italian) has been nicknamed 'salvaduino'. 
+The money box ('salvadanaio' in italian) has been nicknamed, following an established tradition, 'salvaduino'. 
 
 ### Board/Microcontroller:
 Arduino UNO (Rev. 1) / Atmega328
@@ -22,11 +24,21 @@ Arduino 1.8.7
 * Mini Elettroserratura 12 Vdc (https://www.futurashop.it/ELLOCK-MINI-ELETTROSERRATURA-12V)
 * Misuratore distanza ultrasuoni 2-450 cm (https://www.futurashop.it/misuratore-distanza-ultrasuoni-2-450-cm-2846-misdist04)
 * Convertitore di livelli logici bidirezionale (https://www.futurashop.it/convertitore-di-livelli-logici-bidirezionale-7300-llconbi)
-* 1 5mm Red LED
+* #1 pushbutton;
+* #1 passive piezo buzzer;
+* #2 microswitches;
+* #1 5mm Red LED;
+* #1 180Ω 1/4W;
+* #1 1K0Ω 1/4W;
+* #1 1K5Ω 1/4W;
+* #1 3K3Ω 1/4W;
+* #1 BDX53 NPN Darlington Transistor;
+* #1 1N4007 diode;
+* #1 5V & 12V DC power supply;
 
-### 3 Library used:
+### Libraries:
 
-#### 4 Library used:
+#### Library used:
 * asdasd
 * asdasdasd
 * asdasdas
