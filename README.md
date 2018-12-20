@@ -1,10 +1,12 @@
-# Salvaduino
-asdasdasd
-asasdasd
+# Arduino controlled money box (aka Salvaduino)
+The aim of the project is to build a money box controlled by an Arduino board. 
+The money box:
+* accepts 0.50, 1 and 2 EUR coins;
+* displays amount and number of coins on a 16 x 2 LCD;
+* stops accepting coins when its coin container is full;
+* recognizes the owner via an RFID key fob (a Master tag is provided to change user's tag - e.g. in case of loss);
 
-* It's controllable in two ways:
-    * Fasdasdasd
-    * asdasdasd
+The money box ('salvadanaio' in italian) has been nicknamed 'salvaduino'. 
 
 ### Board/Microcontroller:
 Arduino UNO (Rev. 1) / Atmega328
