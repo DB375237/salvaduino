@@ -39,7 +39,7 @@ Arduino 1.8.7
 
 ### Libraries:
 
-#### [Purposely Developed Libraries (integral part of the project)](../tree/master/libraries):
+#### [Purposely Developed Libraries (integral part of the project)](../salvaduino/tree/master/libraries):
 * Beeper_1.0
 * Button_1.0
 * SolenoidLock_1.0
