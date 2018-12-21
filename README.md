@@ -11,13 +11,13 @@ The money box:
 
 The money box ('salvadanaio' in italian) has been nicknamed, following an established tradition, 'salvaduino'. 
 
-### Board/Microcontroller:
+### Board/Microcontroller
 Arduino UNO (Rev. 1) / Atmega328
 	
-### IDE:
+### IDE
 Arduino 1.8.7
 
-### Parts used:
+### Parts used
 * Gettoniera Programmabile (6 tipi di monete) (https://www.futurashop.it/gettoniera-programmabile-6-tipi-di-monete-6168-getton1)
 * Display LCD 16x2 con interfaccia I²C (https://www.futurashop.it/display-lcd-16x2-con-interfaccia-i%C2%B2c-2846-lcd16x2ai2c)
 * Modulo Read-Write per RFID - 13.56MHz (https://www.futurashop.it/modulo-read-write-rfid-8220-VMA405)
@@ -37,9 +37,9 @@ Arduino 1.8.7
 * #1 1N4007 diode;
 * #1 5V & 12V DC power supply;
 
-### Libraries:
+### Libraries
 
-#### [Purposely Developed Libraries (integral part of the project)](https://github.com/DB375237/salvaduino/tree/master/libraries):
+#### [Purposely Developed Libraries (integral part of the project)](https://github.com/DB375237/salvaduino/tree/master/libraries)
 * Beeper_1.0
 * Button_1.0
 * SolenoidLock_1.0
@@ -47,6 +47,9 @@ Arduino 1.8.7
 * CoinAcceptor_1.0
 
 
-#### 3rd Party Libraries (used in accordance to their respective license terms):
+#### 3rd Party Libraries (used in accordance to their respective license terms)
 * MFRC522 - Library for Mifare RC522 Devices (miguelbalboa) - https://github.com/miguelbalboa/rfid
 * Newliquidcrystal_1.3.5 - NewLiquidCrystal Library for I2C LCD (F. Malpartida) - https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
+
+### Documentation
+[For more information, please check the Wiki for this repository.](https://github.com/DB375237/salvaduino/wiki)
