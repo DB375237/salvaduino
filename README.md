@@ -42,6 +42,8 @@ Arduino 1.8.7
 #### Arduino Libraries
 * [SPI Library](https://www.arduino.cc/en/Reference/SPI)
 * [Wire Library](https://www.arduino.cc/en/Reference/Wire)
+* [EEPROM Library](https://www.arduino.cc/en/Reference/EEPROM)
+
 
 #### [Purposely Developed Libraries (integral part of the project)](https://github.com/DB375237/salvaduino/tree/master/libraries)
 * Beeper_1.0
