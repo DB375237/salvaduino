@@ -9,6 +9,8 @@
 #include "Arduino.h"
 #include "Button.h"
 
+#define DEBOUNCE_INTERVAL 20
+
 Button::Button(int pin){
 	pinMode(pin, INPUT_PULLUP);
 	_pin = pin;
