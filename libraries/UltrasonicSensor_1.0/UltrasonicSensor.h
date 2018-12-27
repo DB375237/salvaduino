@@ -9,7 +9,6 @@
 #define UltrasonicSensor_h
 
 #include "Arduino.h"
-#define DEBOUNCE_INTERVAL 20
 
 class UltrasonicSensor{
   public:
