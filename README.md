@@ -1,4 +1,4 @@
-# Arduino controlled money box (aka Salvaduino)
+﻿# Arduino controlled money box (aka Salvaduino)
 The aim of the project is to build a money box controlled by an Arduino board. 
 
 The money box:
@@ -28,7 +28,7 @@ Arduino 1.8.7
 * #1 pushbutton;
 * #1 passive piezo buzzer;
 * #2 microswitches;
-* #1 5mm red LED;
+* #1 3mm red LED;
 * #1 180Ω 1/4W resistor;
 * #1 1KΩ 1/4W resistor;
 * #1 1K5Ω 1/4W resistor;
@@ -39,13 +39,16 @@ Arduino 1.8.7
 
 ### Libraries
 
+#### Arduino Libraries
+* [SPI Library](https://www.arduino.cc/en/Reference/SPI)
+* [Wire Library](https://www.arduino.cc/en/Reference/Wire)
+
 #### [Purposely Developed Libraries (integral part of the project)](https://github.com/DB375237/salvaduino/tree/master/libraries)
 * Beeper_1.0
 * Button_1.0
 * SolenoidLock_1.0
 * UltrasonicSensor_1.0
 * CoinAcceptor_1.0
-
 
 #### 3rd Party Libraries (used in accordance to their respective license terms)
 * MFRC522 - Library for Mifare RC522 Devices (miguelbalboa) - https://github.com/miguelbalboa/rfid
