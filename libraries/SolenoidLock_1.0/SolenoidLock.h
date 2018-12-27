@@ -8,7 +8,6 @@
 #define SolenoidLock_h
 
 #include "Arduino.h"
-#define RELEASE_DURATION 500
 
 class SolenoidLock
 {

@@ -8,6 +8,8 @@
 #include "Arduino.h"
 #include "SolenoidLock.h"
 
+#define RELEASE_DURATION 500
+
 SolenoidLock::SolenoidLock(int pin)
 {
 	pinMode(pin, OUTPUT);
